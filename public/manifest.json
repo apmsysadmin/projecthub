@@ -1,0 +1,17 @@
+{
+    "name": "AperindoHUB",
+    "short_name": "AperindoHUB",
+    "start_url": "/",
+    "background_color": "#000080",
+    "description": "APERINDO ProjectHUB",
+    "display": "fullscreen",
+    "theme_color": "#000080",
+    "icons": [
+        {
+            "src": "logo.PNG",
+            "sizes": "512x512",
+            "type": "image/png",
+            "purpose": "any maskable"
+        }
+    ]
+}
